@@ -1,4 +1,4 @@
-# Journal fullstack exercise
+# fullstack exercise
 
 ## Description
 
