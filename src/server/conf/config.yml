@@ -1,0 +1,11 @@
+general:
+  app_name: Journal API
+  environment: qa
+  log_path: /var/log/api.log
+
+db:
+  host: db
+  database: example-db
+  user: example-user
+  password: password
+  port: 3306
